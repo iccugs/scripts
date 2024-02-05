@@ -1,6 +1,6 @@
 # Red Hat Developer VPS Trial w/root Access
 
-This is a method that somebody posted on youtube to use the free Red Hat Openshift Developer Sandbox trial that comes with 32gb of ram and 8 cores to gain root access to their own VPS.
+This is a method that somebody posted on youtube to use the free Red Hat Openshift Developer Sandbox trial that comes with 32gb of ram and 8 cores to gain root access in a proot environment on their own VPS. Honestly I haven't tested this yet, it just looked interesting.
 
 
 ## Link to the Red Hat website for the free trial:
